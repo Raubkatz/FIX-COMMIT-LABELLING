@@ -1,0 +1,8 @@
+"group","commits","stemming","qwen3.5.122b","mistral.small3.2.24b","codegemma.7b","gemma4.12b","qwen3.coder.30b","qwen3.6.35b","codestral.22b","gpt.5.6.luna.low","gpt.5.6.luna.high","claude.sonnet.5.5"
+"fix, raters agreed",5930,40.6,71.5,73,95.3,69.8,66.3,65.7,89.2,81.3,79.6,75.6
+"fix, raters disagreed",1233,30,65.2,66,94.6,63,56.9,57.5,86,79.1,76.7,71
+"non-fix, raters disagreed",1217,29.2,46.8,51.6,91.8,45.6,41.1,40.1,77,64.6,61.1,52.9
+"non-fix, raters agreed",7023,19.9,18.4,19.8,85.4,17.7,15.8,14.2,50,32.8,29.5,21.6
+"non-fix, fewer than two ratings",197,23.9,36,42.1,87.3,36,33.5,32.5,62.9,50.8,47.2,39.1
+"non-fix, issue type not rated",13158,8.9,9.6,9.4,79.8,8.3,6.7,7,34.5,20.3,18.5,10.6
+"non-fix, no linked issue",4063,18.4,11.3,10.2,56.8,11.1,10.2,8.8,31.6,17.9,15,13.3

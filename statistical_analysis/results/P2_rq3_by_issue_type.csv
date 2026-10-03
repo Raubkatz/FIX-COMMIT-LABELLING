@@ -1,0 +1,15 @@
+"category","keyword_fires","commits","strong_models_fix"
+"bug report, other",FALSE,181,29.6
+"bug report, other",TRUE,65,47.1
+"improvement",FALSE,7685,7.9
+"improvement",TRUE,712,32.4
+"new feature",FALSE,2636,4.3
+"new feature",TRUE,248,35.6
+"no linked issue",FALSE,3113,5
+"no linked issue",TRUE,718,34.1
+"other issue types",FALSE,339,5.1
+"other issue types",TRUE,36,37.2
+"re-typed bug report",FALSE,4557,20.8
+"re-typed bug report",TRUE,1580,39.5
+"task or sub-task",FALSE,3433,3
+"task or sub-task",TRUE,355,25.5

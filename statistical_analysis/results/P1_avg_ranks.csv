@@ -1,0 +1,12 @@
+"model","avg_rank"
+"mistral.small3.2.24b",1.986
+"claude.sonnet.5.5",2.771
+"qwen3.6.35b",3.243
+"qwen3.5.122b",4.514
+"gpt.5.6.luna.low",5.457
+"qwen3.coder.30b",5.457
+"gemma4.12b",6.114
+"gpt.5.6.luna.high",6.486
+"codestral.22b",9.029
+"stemming",10.114
+"codegemma.7b",10.829

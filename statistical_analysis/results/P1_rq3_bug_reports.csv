@@ -1,0 +1,12 @@
+"model","called_nonfix","share_retyped","retyped_found"
+"stemming",9145,51.8,74.2
+"qwen3.5.122b",5036,72.1,56.9
+"codestral.22b",2583,75,30.3
+"mistral.small3.2.24b",6045,69.9,66.2
+"codegemma.7b",447,72.7,5.1
+"gemma4.12b",4667,71.6,52.4
+"qwen3.coder.30b",4632,72.2,52.4
+"qwen3.6.35b",5534,71.2,61.7
+"gpt.5.6.luna.low",4119,75.7,48.9
+"gpt.5.6.luna.high",4219,74.5,49.3
+"claude.sonnet.5.5",5016,72.9,57.3

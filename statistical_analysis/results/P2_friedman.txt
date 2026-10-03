@@ -1,0 +1,3 @@
+Friedman chi2(10) = 241.36, p = 3.55e-46
+Kendall's W = 0.690
+k = 11, N = 35, Nemenyi CD = 2.552
